@@ -128,7 +128,7 @@
     width: 80%;
     margin-left: 25px;
     height: 5px;
-    background:#08088A;
+    background: #08088A;
     position: relative;
   }
   
@@ -146,7 +146,7 @@
     top: 0;
     left: 0;
     height: 100%;
-    background: #fff;
+    background: #2E2EFE;
   }
   
   .resume .resume_left .resume_social .semi-bold {
